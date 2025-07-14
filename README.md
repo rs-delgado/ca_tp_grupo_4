@@ -1,7 +1,12 @@
 # Trabajo práctico integrador grupa
 
 🚀 Integrantes: 
-    Romina Soledad Delgado
-    Florencia Sicre
-    Félix Enrique Zambrano Rodriguez
-    Keith Magin Leonel Denysiuk
+
+| Nombre | Rol |
+|--------|-----|
+| **Romina Soledad Delgado** | Desarrolladora |
+| **Florencia Sicre** | Desarrolladora |
+| **Félix Enrique Zambrano Rodriguez** | Desarrollador |
+| **Keith Magin Leonel Denysiuk** | Desarrollador |
+
+---
