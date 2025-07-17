@@ -14,6 +14,9 @@ Nota: Dejamos adjunta la imagen con el resultado del intento.
 
 <img width="604" height="344" alt="Screenshot 2025-07-14 at 1 14 01 AM" src="https://github.com/user-attachments/assets/8bff079c-1d3e-46eb-bdf2-f6d294491bdf" />
 
+### Observaciones adicionales
+- Respecto al comentario de que ciertos archivos en el repositorios se veian como texto, en realidad sí son archivos en sí pero github
+<img width="731" height="290" alt="image" src="https://github.com/user-attachments/assets/29af3087-b88f-4e66-8031-2b47ffd51116" />
 
 🚀 **Integrantes**: 
 
